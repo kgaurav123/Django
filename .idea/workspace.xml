@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96989486-2b2c-42ac-bf9c-9d51e79878a4" name="Default Changelist" comment="" />
+    <list default="true" id="96989486-2b2c-42ac-bf9c-9d51e79878a4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursion/Ques_ans/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/recursion/Ques_ans/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursion/Ques_ans/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/recursion/Ques_ans/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursion/Ques_ans/templates/question.html" beforeDir="false" afterPath="$PROJECT_DIR$/recursion/Ques_ans/templates/question.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursion/Ques_ans/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/recursion/Ques_ans/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursion/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/recursion/db.sqlite3" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +22,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WVqivcA0kFJKzGvCJc2vmexZed" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,6 +34,8 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -52,8 +65,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579245240884</updated>
+      <workItem from="1579333926567" duration="947000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="465" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1579317741414">
