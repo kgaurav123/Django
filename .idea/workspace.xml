@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96989486-2b2c-42ac-bf9c-9d51e79878a4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursion/Ques_ans/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/recursion/Ques_ans/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursion/Ques_ans/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/recursion/Ques_ans/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/recursion/Ques_ans/templates/question.html" beforeDir="false" afterPath="$PROJECT_DIR$/recursion/Ques_ans/templates/question.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursion/Ques_ans/templates/questionslist.html" beforeDir="false" afterPath="$PROJECT_DIR$/recursion/Ques_ans/templates/questionslist.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursion/Ques_ans/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/recursion/Ques_ans/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/recursion/Ques_ans/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/recursion/Ques_ans/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/recursion/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/recursion/db.sqlite3" afterDir="false" />
     </list>
@@ -36,7 +35,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Maze-Game" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -66,6 +65,8 @@
       <option name="presentableId" value="Default" />
       <updated>1579245240884</updated>
       <workItem from="1579333926567" duration="947000" />
+      <workItem from="1579335381629" duration="4354000" />
+      <workItem from="1579347417632" duration="181000" />
     </task>
     <servers />
   </component>
@@ -73,9 +74,18 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="465" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1579317741414">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="539" y="179" key="FileChooserDialogImpl" timestamp="1579347596110">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="539" y="179" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1579347596110" />
+    <state x="465" y="246" key="com.intellij.ide.util.TipDialog" timestamp="1579347425782">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="246" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1579347425782" />
     <state x="465" y="258" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1579317741414" />
+    <state x="421" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1579336520339">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="421" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1579336520339" />
   </component>
 </project>

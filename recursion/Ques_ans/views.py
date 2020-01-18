@@ -14,4 +14,5 @@ def question(request):
         q.save()
     return render(request, 'question.html')
 
-
+def questionslist(request):
+    return render(request,'questionslist.html')

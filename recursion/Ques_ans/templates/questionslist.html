@@ -5,6 +5,10 @@
     <title>question</title>
 </head>
 <body>
-
+<h2>Your questions</h2>
+{%for i in q%}
+ {% csrf_token %}
+<h3>{{i.Question}}</h3>
+{%endfor%}
 </body>
 </html>
