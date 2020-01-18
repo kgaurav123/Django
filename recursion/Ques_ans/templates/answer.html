@@ -1,0 +1,41 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+    <title>Question</title>
+    <nav class="navbar navbar-expand-lg">
+      <div class="container">
+
+      <div class="navbar-header">
+        <p class="navdar-brand">Recursion</p>
+      </div>
+      <ul class="nav navbar-nav navbar-right">
+        <li class = "nav-link"><a href="/">Home</a></li>
+        <li class = "nav-link"><a href="/question">Question</a></li>
+        <li class = "nav-link"><a href="/answer">Answer</a></li>
+      </ul>
+    </div>
+    </nav>
+</head>
+<body>
+    <div class="container">
+
+  <form class="" action="question" method="post">
+   {% csrf_token %}
+    <div class="form-group">
+      <label >Name</label>
+      <input type="text" class="form-control" name="studentname" value="">
+
+    </div>
+    <div class="form-group">
+      <label>Answer</label>
+      <textarea name="answer" class="form-control" rows="5" cols="20"></textarea>
+    </div>
+      <a href="{% url 'home' %}"><button type="submit" class="btn btn-primary" name="button">Post</button></a>
+  </form>
+    </div>
+</body>
+</html>

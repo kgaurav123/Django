@@ -1,0 +1,28 @@
+.container {
+    padding-top: 20px;
+    padding-bottom: 10px;
+      background-color: #fffaf0;
+}
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    margin-bottom: 25px;
+    font-size: 30px;
+}
+.nav-link{
+  font-size: 20px;
+}
+.heading{
+  padding-bottom: 30px;
+}
+body{
+  background-color: #fffaf0;
+}
+.navbar-nav :hover {
+    color: #1abc9c;
+}
+
+.footer-padding {
+	padding-bottom: 60px;
+}
